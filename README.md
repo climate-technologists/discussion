@@ -10,4 +10,4 @@ Problems To Solve
 
 If you have interest in working on a solution to a problem, please create an issue for it and add it here.
 
-- (Wind Capacity Estimation)[https://github.com/climate-technologists/discussion/issues/1]
+- [Wind Capacity Estimation](https://github.com/climate-technologists/discussion/issues/1)
