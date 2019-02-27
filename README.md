@@ -6,7 +6,7 @@ This group is inspired by the work of Bret Victor, who wrote the fantastic [What
 
 If you can donate a few hours here and there for coding, devops, marketing, design, or product management, please submit a request to join the organization.
 
-Problems To Solve
+## Problems To Solve
 
 If you have interest in working on a solution to a problem, please create an issue for it and add it here.
 
